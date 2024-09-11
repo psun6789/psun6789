@@ -1,4 +1,4 @@
-- 👋 Researcher in Machine Learning @ Nimbus Research Centre, Munster Technological University (MTU) Cork, Ireland from November-2021 to Present
+- 👋 Researcher in Machine Learning @ Nimbus Research Centre, Munster Technological University (MTU) Cork, Ireland from November-2022 to Present
 - 🌱 Data Scientist Intern : August 2022 - @ Nimbus Research Centre, Munster Technological University (MTU) Cork, Ireland
 - 🌱 Software Engineer : April 2016 to July 2021
 - 🌱 Guest Lecturer in 3 different college from January 2014 to July 2021 to teach C Programming, Java, System Programming, PHP
